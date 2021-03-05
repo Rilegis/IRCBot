@@ -1,0 +1,44 @@
+{
+  "networks": [
+    {
+      "username": "",
+      "authService": "",
+      "authPassword": "",
+      "realName": "",
+      "userModes": "",
+      "address": "",
+      "port": 6667,
+      "mainchan": "",
+      "owner": [ "" ],
+      "admins": [ "" ],
+      "friends": [ "" ],
+      "commandTrigger": "",
+      "scripts": [ "" ]
+    },
+    {
+      "username": "",
+      "authService": "",
+      "authPassword": "",
+      "realName": "",
+      "userModes": "",
+      "address": "",
+      "port": 6667,
+      "mainchan": "",
+      "owner": [ "" ],
+      "admins": [ "" ],
+      "friends": [ "" ],
+      "commandTrigger": "",
+      "scripts": [ "" ]
+    }
+  ],
+  "database": {
+    "host": "",
+    "port": 3306,
+    "database": "",
+    "user": "",
+    "password": "",
+    "UsingSSL": false,
+    "SSLCertificate": "",
+    "SSLCertificatePassword": ""
+  }
+}
