@@ -14,6 +14,8 @@
                                     Removed AddonAPI, it will be recreated.
                                     Moved folder system check here
                                     (previously on 'Bot.cs'.)
+    11/04/2021  Rilegis     4       Changed target framework from 'NET Core 3.1' to '.NET 5'
+                                    and updated package 'Newtonsoft.Json'.
 **********************************************************************/
 
 using Newtonsoft.Json;
